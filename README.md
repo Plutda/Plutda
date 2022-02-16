@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Plutda
+- 👋 Hi, I’m plutda
 - 👀 I’m interested in swimming、javascript、Glory of Kings
 - 🌱 I’m currently learning javascript
 - 📫 How to reach me qq:691841335
