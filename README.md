@@ -8,6 +8,6 @@
   
 👨‍💻 A simple FE Developer  
 👨‍🎓 Working in Shanghai  
-🚧 **Current Project:** [Price Tracker](https://github.com/plutda/el-tree-select)
+🚧 **Current Project:** [el-tree-select](https://github.com/plutda/el-tree-select)
 
 ⭐️ From [plutda](https://github.com/plutda)
