@@ -6,8 +6,10 @@
 [![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=orange&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/lucafluri/)
 [![me@lucafluri.ch](https://img.shields.io/static/v1?label=me@lucafluri.ch&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:me@lucafluri.ch) -->
   
-👨‍💻 A simple FE Developer  
-👨‍🎓 Working in Shanghai  
-🚧 **Current Project:** [el-tree-select](https://github.com/plutda/el-tree-select)
+👨‍💻 FE Developer  
+👨‍🎓 Working in ZTO(Shanghai)  
+👋 HTML/CSS、JavaScript、Vue、Node.js
+🌟 intersted in NestJS
+📧 Email：w_zb@foxmail.com
 
 ⭐️ From [plutda](https://github.com/plutda)
