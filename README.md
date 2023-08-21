@@ -8,8 +8,6 @@
   
 👨‍💻 FE Developer  
 👨‍🎓 Working in ZTO(Shanghai)  
-👋 HTML/CSS、JavaScript、Vue、Node.js  
+👋 HTML/CSS、JavaScript、Vue.js、Node.js  
 📚 Intersted in NestJS  
 📧 Email：w_zb@foxmail.com 
-
-⭐️ From [plutda](https://github.com/plutda)
